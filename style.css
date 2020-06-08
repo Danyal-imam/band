@@ -318,5 +318,8 @@ body {
 /* footer */
 
 footer {
-  background-color: aqua;
+  background-color: #282c34;
+  color: #fff;
+  height: 20vh;
+  padding-top: 60px;
 }
