@@ -313,3 +313,10 @@ body {
   border: 1px solid #39393A;
   color: #39393A;
 }
+
+
+/* footer */
+
+footer {
+  background-color: aqua;
+}
